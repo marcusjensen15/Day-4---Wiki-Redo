@@ -15,3 +15,21 @@ h1{
   border: solid 3px;
 
 }
+
+.form-control {
+
+    float: right;
+}
+
+.btn-outline-success{
+
+  float: right;
+
+}
+
+nav{
+
+  padding-bottom: 50px;
+
+
+}
